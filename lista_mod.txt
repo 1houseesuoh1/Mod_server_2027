@@ -1,1 +1,1 @@
-OpenPartiesAndClaims|
+OpenPartiesAndClaims.jar|https://github.com/1houseesuoh1/Mod_server_2027/raw/refs/heads/main/open-parties-and-claims-neoforge-1.21.1-0.30.3.jar
