@@ -1,1 +1,1 @@
-zipline-1.5.3+1.21.1-neoforge.jar|https://cdn.modrinth.com/data/C1MoWQlb/versions/aoJSybb5/zipline-1.5.3%2B1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge
+zipline | https://cdn.modrinth.com/data/C1MoWQlb/versions/aoJSybb5/zipline-1.5.3%2B1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge
