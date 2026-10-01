@@ -1,1 +1,1 @@
-https://github.com/1houseesuoh1/Mod_server_2027/raw/refs/heads/main/open-parties-and-claims-neoforge-1.21.1-0.30.3.jar
+https://cdn.modrinth.com/data/C1MoWQlb/versions/aoJSybb5/zipline-1.5.3%2B1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge
