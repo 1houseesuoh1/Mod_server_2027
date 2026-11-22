@@ -1,1 +1,2 @@
 pixelsanticheat-1.0-Beta.jar [off]
+fowlplay-1.2.3+1.21.1-neoforge.jar [on]
